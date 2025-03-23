@@ -32,11 +32,12 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" />
 </a>
 
+</div>
+
 <a target="_blank" href="https://www.linkedin.com/in/aleksandar-gadzhinski">
     <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="LinkedIn" />
 </a>
 
-</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexGadjinski/AlexGadjinski/output/github-snake-dark.svg" />
