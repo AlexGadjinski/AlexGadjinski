@@ -1,4 +1,10 @@
-<div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+<div style="
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    justify-content: center; 
+    text-align: center;
+    width: 100%;">
     <h2>💻 Tech Stack:</h2>
     <p>
         <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
@@ -44,6 +50,7 @@
     <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGadjinski&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexGadjinski/AlexGadjinski/output/github-snake-dark.svg" />
