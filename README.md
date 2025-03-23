@@ -4,6 +4,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aleksandar-gadzhinski/) 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AlexGadjinski&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AlexGadjinski&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGadjinski&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexGadjinski/AlexGadjinski/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexGadjinski/AlexGadjinski/output/github-snake.svg" />
