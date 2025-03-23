@@ -32,19 +32,9 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" />
 </a>
 
----
-
-## 🌐 Connect with me:
 <a target="_blank" href="https://www.linkedin.com/in/aleksandar-gadzhinski">
     <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="LinkedIn" />
 </a>
-
----
-
-## 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=AlexGadjinski&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=AlexGadjinski&theme=dark&hide_border=false" alt="GitHub Streak Stats" /><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGadjinski&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 
 </div>
 
